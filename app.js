@@ -3,7 +3,7 @@ function bigNewFeature() {
 }
 
 function something () {
-	console.log('I\'m Sharat Khanna and this is a new line.');
+	console.log('bug fixed to stable version');
 };
 
 console.log ('Hello World');
