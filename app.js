@@ -1,5 +1,5 @@
 function bigNewFeature() {
-	console.log('Thsi is a Big New Feature being tested');
+	console.log('Thsi is a Big New Feature. now tested and completed!');
 }
 
 function something () {
